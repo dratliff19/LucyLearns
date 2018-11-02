@@ -1,3 +1,5 @@
+##Dylan Ratliff 2018
+
 import nltk
 import ssl
 import datetime
